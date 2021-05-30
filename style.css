@@ -5,7 +5,7 @@ body{
 }
 .main-cont{
     
-    background-image: url(photos/code5.jpg);
+    background-image: url(photos/code5r.jpg);
     background-size: cover;
     margin:50px;
     margin-bottom: 60px;
@@ -53,7 +53,7 @@ body{
     color: rgb(197, 237, 255);
 }
 .skill-cont{
-    background-image: url(photos/code3.jpg);
+    background-image: url(photos/code3r.jpg);
     background-size: cover;
     color: white;
     border-radius: 25px;
@@ -66,7 +66,7 @@ body{
 .edu-cont{
     margin-left: 10px;
     margin-right: 30px;
-    background-image: url(photos/education.jpg);
+    background-image: url(photos/educationr.jpg);
     background-size: cover;
     color: white;
     border-radius: 25px;
@@ -127,7 +127,8 @@ body{
 .contacts{
     margin: 30px 40px;
     text-align: center;
-    background-image: url(photos/contact3.jpg);
+    background-image: url(photos/contact3r.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     color: lavenderblush;
     border-radius: 30px;
